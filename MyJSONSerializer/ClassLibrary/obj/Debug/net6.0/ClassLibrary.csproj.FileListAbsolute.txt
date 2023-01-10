@@ -1,0 +1,12 @@
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.AssemblyReference.cache
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll

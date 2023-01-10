@@ -1,0 +1,15 @@
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\JSONString\bin\Debug\net6.0\JSONSerializer.exe
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\JSONString\bin\Debug\net6.0\JSONSerializer.deps.json
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\JSONString\bin\Debug\net6.0\JSONSerializer.runtimeconfig.json
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\JSONString\bin\Debug\net6.0\JSONSerializer.dll
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\JSONString\bin\Debug\net6.0\JSONSerializer.pdb
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\JSONString\obj\Debug\net6.0\JSONSerializer.csproj.AssemblyReference.cache
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\JSONString\obj\Debug\net6.0\JSONSerializer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\JSONString\obj\Debug\net6.0\JSONSerializer.AssemblyInfoInputs.cache
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\JSONString\obj\Debug\net6.0\JSONSerializer.AssemblyInfo.cs
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\JSONString\obj\Debug\net6.0\JSONSerializer.csproj.CoreCompileInputs.cache
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\JSONString\obj\Debug\net6.0\JSONSerializer.dll
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\JSONString\obj\Debug\net6.0\refint\JSONSerializer.dll
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\JSONString\obj\Debug\net6.0\JSONSerializer.pdb
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\JSONString\obj\Debug\net6.0\JSONSerializer.genruntimeconfig.cache
+G:\Training\ASP.NET\tahsinturab-aspnet-b7\Assignment1\JSONString\obj\Debug\net6.0\ref\JSONSerializer.dll
